@@ -2,4 +2,4 @@
 専門学校在学中、課題で作成したものです。  
 ポートフォリオにすらならないと思いますが、消してしまうのも勿体なかったので記念に置いておきます。  
   
-https://kyosuke-otaka.github.io/front-portfolio/
+https://Kyosuke-Otaka.github.io/Front-Portfolio/
